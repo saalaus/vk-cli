@@ -1,4 +1,6 @@
 # VK CLI
+[![Python version](https://img.shields.io/pypi/pyversions/vk-cli)](https://img.shields.io/pypi/pyversions/vk-cli)
+
 Call VK API methods from terminal.
 
 ## Installation
