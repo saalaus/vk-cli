@@ -43,7 +43,7 @@ Run Shell
 vk shell
 ```
 Shel is it interactive python shell, but you can call to api vk
-```python
+```Py
 >>> response = API.users.get(user_id=1)
 >>> user = user["response"][0]
 >>> print(user["first_name"], user["last_name"], sep=" ")
